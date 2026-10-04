@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+train_processed.csv
